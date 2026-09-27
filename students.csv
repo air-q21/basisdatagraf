@@ -1,0 +1,16 @@
+student_id,name,email,program_id,year
+S001,Andi Nasution,andi@student.ac.id,P001,2024
+S002,Rina Putri,rina@student.ac.id,P001,2024
+S003,Budi Santoso,budi@student.ac.id,P001,2023
+S004,Sari Wulandari,sari@student.ac.id,P002,2024
+S005,Dedi Kurniawan,dedi@student.ac.id,P002,2023
+S006,Maya Anggraini,maya@student.ac.id,P002,2024
+S007,Fajar Ramadhan,fajar@student.ac.id,P001,2023
+S008,Lestari Handayani,lestari@student.ac.id,P003,2024
+S009,Hendra Gunawan,hendra@student.ac.id,P003,2023
+S010,Putri Ayu,putri@student.ac.id,P001,2024
+S011,Rizky Pratama,rizky@student.ac.id,P002,2023
+S012,Nur Aisyah,nur@student.ac.id,P004,2024
+S013,Agus Setiawan,agus@student.ac.id,P004,2023
+S014,Dewi Kartika,dewi@student.ac.id,P001,2024
+S015,Yoga Prasetyo,yoga@student.ac.id,P003,2023
