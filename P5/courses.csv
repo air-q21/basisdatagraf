@@ -1,0 +1,11 @@
+course_id,course_name,credits,category
+C001,Basis Data Graf,3,Core
+C002,Pemrograman Web,3,Core
+C003,Struktur Data,4,Core
+C004,Jaringan Komputer,3,Core
+C005,Machine Learning,3,Elective
+C006,Rekayasa Perangkat Lunak,4,Core
+C007,Sistem Operasi,3,Core
+C008,Basis Data Relasional,3,Core
+C009,Keamanan Jaringan,3,Elective
+C010,Interaksi Manusia dan Komputer,3,Elective
